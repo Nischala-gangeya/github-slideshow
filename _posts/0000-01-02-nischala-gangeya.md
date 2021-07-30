@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "NISCHALA GANGEYA "
 ---
-Your text
+font:"Times New Roman"
 Use the left arrow to go back!
